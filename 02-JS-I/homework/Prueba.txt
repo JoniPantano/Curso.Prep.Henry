@@ -1,0 +1,3 @@
+Variables: Las variables dentro de Javascript son datos que se almacenan a traves de una denominacion que le damos nosotros para poder ser utilizados nuevamente siempre que los "llamemos".
+Strings: Los Strings son UN tipo de variable, los cuales son de tipo TEXTO.
+Funciones: son un conjunto de codigos que tambien pueden incluir variables, se utilizan para ahorrar lineas de codigos a traves de la agrupacion.
