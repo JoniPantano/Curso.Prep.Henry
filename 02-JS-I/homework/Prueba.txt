@@ -1,3 +1,5 @@
 Variables: Las variables dentro de Javascript son datos que se almacenan a traves de una denominacion que le damos nosotros para poder ser utilizados nuevamente siempre que los "llamemos".
 Strings: Los Strings son UN tipo de variable, los cuales son de tipo TEXTO.
 Funciones: son un conjunto de codigos que tambien pueden incluir variables, se utilizan para ahorrar lineas de codigos a traves de la agrupacion.
+Declaraciones (if):Las declaraciones o mejor dicho "if" es una palabra preasignada que consiste en dar una condicion a una funcion, si la condicion se cumple ahi se aplica la funcion.
+Booleanos:Los valores Booleanos son en otras palabras las condiciones True o False, si una condicion escrita por nosotros es "True" significa que es correta, y si es "False" significa que es incorrecta o que no cumple con lo previamente escrito.
