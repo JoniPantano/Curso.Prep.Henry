@@ -124,7 +124,7 @@ function esImpar(num) {
   if (num %2 === 1)
   return true;
   else{
-    return false;
+    return false;}
 }
 
 function elevarAlCuadrado(num) {
@@ -149,17 +149,20 @@ function elevar(num, exponent) {
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
+  Math.round(num=1.5)
 
 }
 
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
+  Math.ceil(num)
 }
 
 function numeroRandom() {
   //Generar un número al azar entre 0 y 1 y devolverlo
   //Pista: investigá qué hace el método Math.random()
+  Math.random(numeroRandom)
 }
 
 function esPositivo(numero) {
@@ -259,5 +262,4 @@ module.exports = {
   retornarPerimetro,
   areaDelTriangulo,
   deEuroAdolar,
-  esVocal,
-};
+  esVocal,}
